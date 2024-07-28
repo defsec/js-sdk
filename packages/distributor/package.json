@@ -37,7 +37,7 @@
     "@solana/buffer-layout": "4.0.1 ",
     "@solana/spl-token": "0.3.6",
     "@solana/wallet-adapter-base": "0.9.19",
-    "@solana/web3.js": "1.70.1",
+    "@solana/web3.js": "1.70.4",
     "@streamflow/common": "workspace:*",
     "bn.js": "5.2.1",
     "borsh": "^2.0.0",
